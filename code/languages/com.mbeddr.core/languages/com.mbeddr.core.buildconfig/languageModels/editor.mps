@@ -237,6 +237,7 @@
     </language>
     <language id="f89904fb-9486-43a1-865e-5ad0375a8a88" name="de.itemis.mps.editor.bool">
       <concept id="4900677560559655527" name="de.itemis.mps.editor.bool.structure.CellModel_Checkbox" flags="sg" stub="416014060004381438" index="27S6Sx" />
+      <concept id="7122083600695857782" name="de.itemis.mps.editor.bool.structure.CellModel_BooleanText" flags="sg" stub="416014060004530854" index="2aMyGU" />
     </language>
     <language id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel">
       <concept id="1204851882688" name="jetbrains.mps.lang.smodel.structure.LinkRefQualifier" flags="ng" index="26LbJo">
@@ -331,6 +332,9 @@
         <node concept="pVoyu" id="3Dgh5aYiXy9" role="3F10Kt">
           <property role="VOm3f" value="true" />
         </node>
+      </node>
+      <node concept="2aMyGU" id="65fQrOeQU7D" role="3EZMnx">
+        <ref role="1NtTu8" to="51wr:65fQrOeQTOq" resolve="xModelGen" />
       </node>
       <node concept="3F0ifn" id="6hM2_xVYyOH" role="3EZMnx">
         <property role="3F0ifm" value="NEVER GENERATE THIS MODEL" />
